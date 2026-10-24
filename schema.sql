@@ -1,0 +1,1 @@
+CREATE TABLE `retirement` (`rent` INTEGER, `starting_money` INTEGER, `student_loan` INTEGER, `living_expenses` INTEGER, `personal_expenses` INTEGER, `student_monthly_budget` INTEGER, `student_interest_percentage` REAL, Moved)
